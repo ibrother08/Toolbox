@@ -6,6 +6,7 @@ github.com/ying32/govcl v2.2.0+incompatible h1:TZFn0SUuZaufZ+U7Urs9o1ZmbflsCPQcs
 github.com/ying32/govcl v2.2.0+incompatible/go.mod h1:yZVtbJ9Md1nAVxtHKIriKZn4K6TQYqI1en3sN/m9FJ8=
 github.com/ying32/liblclbinres v0.0.0-20220111074620-df670ba4baf4 h1:g6QaezInPib6PtPzh4w1qEzQPD4bT3zbX8dfBCSFqYM=
 github.com/ying32/liblclbinres v0.0.0-20220111074620-df670ba4baf4/go.mod h1:oEmgAOPt+dALMzap3HgEQnaN+iCLE7m3C867jERInaI=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
 gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
